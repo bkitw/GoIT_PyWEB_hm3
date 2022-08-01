@@ -1,7 +1,7 @@
 # Домашнє завдання блоку Python WEB, #3.
 
 #### У цьому домашньому завданні було необхідно створити віртуальне оточення для конкретного проекту, щоб навчитися створювати їх для подальших, вказуючи конкретну версію Python, необхідну для розробки. Також в цьому оточенні повинен бути локально встановленим додаток "Персональний помічник". В моєму випадку файл-скріншот, що вказує на це -- [ТУТ](https://github.com/bkitw/GoIT_PyWEB_hm3/blob/main/PipenvPyBakers.png)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Я+зрозумів+це+завдання+саме+так.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Я+зрозумів+це+завдання+саме+так.)](https://i.kym-cdn.com/photos/images/facebook/001/564/533/613.jpg)
 
 
 #### Другим завданням було розташувати свій додаток у форматі образу в Docker, на що є [це посилання](https://hub.docker.com/layers/bkitw/pybakers/latest/images/sha256:6674fa27d8799df47b1af6cdc8658b46d303aba205ecc7046805664b5070506a?tab=layers).
